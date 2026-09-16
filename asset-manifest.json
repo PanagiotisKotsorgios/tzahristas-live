@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.9196ed77.css",
-    "main.js": "./static/js/main.6eb3026a.js",
-    "index.html": "./index.html",
-    "main.9196ed77.css.map": "./static/css/main.9196ed77.css.map",
-    "main.6eb3026a.js.map": "./static/js/main.6eb3026a.js.map"
+    "main.css": "/tzahristas-live/static/css/main.9196ed77.css",
+    "main.js": "/tzahristas-live/static/js/main.41d3553b.js",
+    "index.html": "/tzahristas-live/index.html",
+    "main.9196ed77.css.map": "/tzahristas-live/static/css/main.9196ed77.css.map",
+    "main.41d3553b.js.map": "/tzahristas-live/static/js/main.41d3553b.js.map"
   },
   "entrypoints": [
     "static/css/main.9196ed77.css",
-    "static/js/main.6eb3026a.js"
+    "static/js/main.41d3553b.js"
   ]
 }
